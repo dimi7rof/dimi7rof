@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dimi7rof
-- 👀 I’m interested in C#, MSSQL, HTML, CSS & JavaScript
-- 📫 How to reach me on /dimi7rof
+- 👋 Hi, I’m Todor
+- 👀 I’m interested in .NET, SQL, Angular, HTML, CS, JavaScript, RabbitMQ, Masstransit, Azure, OAuth2, GitHub Actions, Docker, k8s, CD & CI
+- 📫 How to reach me: Facebook, LinkdIn, GitHub & Gmail = dimi7rof
 
 <!---
 dimi7rof/dimi7rof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
