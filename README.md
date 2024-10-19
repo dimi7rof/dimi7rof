@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Todor
-- 👀 I’m interested in .NET, SQL, Angular, HTML, CS, JavaScript, RabbitMQ, Masstransit, Azure, OAuth2, GitHub Actions, Docker, k8s, CD & CI
+- 👀 I’m interested in .NET, Angular, SignalR, SQL, HTML, CSS, JavaScript, RabbitMQ, Masstransit, Azure, OAuth2, GitHub Actions, Docker, k8s, CD & CI
 - 📫 How to reach me: Facebook, LinkdIn, GitHub & Gmail = dimi7rof
 
 <!---
